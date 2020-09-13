@@ -1,2 +1,2 @@
-# treehouse-project-1
- Profile page made with treehouse source code
+# treehouse project 1
+ Profile page made using treehouse source code.
