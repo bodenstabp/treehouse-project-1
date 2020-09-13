@@ -105,7 +105,6 @@ header .profile-image:hover {
 
 .background-info-image img{
   width:100%;
-  padding: auto;
 }
 
 ul.skills {
@@ -177,10 +176,9 @@ a.social:hover {
 @media screen and (min-width: 900px) {
   
   .flex {
-      display: -ms-flexbox;      /* TWEENER - IE 10 */
+     /* TWEENER - IE 10 */
       display: flex; 
       max-width: 1200px;
-      -ms-flex-pack: distribute;
       justify-content: space-around;
       
   }
