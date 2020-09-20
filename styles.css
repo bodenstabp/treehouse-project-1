@@ -76,6 +76,7 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.4) rotate(20deg);
 }
+
 .tag {
   background-color: #ddd;
   color: #222;
@@ -180,6 +181,7 @@ a.social:hover {
       display: flex; 
       max-width: 1200px;
       justify-content: space-around;
+      margin:auto;
       
   }
 
